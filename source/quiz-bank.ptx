@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<exercises xml:id="quiz-bank" xmlns:xi="http://www.w3.org/2001/XInclude">
+  
+  <exercise xml:id="q1">
+    <statement>
+      <p>
+        What is the answer to question 1?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise xml:id="q2" component="ws">
+    <statement>
+      <p>
+        What is the answer to question 2? (this is in component ws)
+      </p>
+    </statement>
+
+    <answer>
+      <p>
+        Berlin
+      </p>
+    </answer>
+  </exercise>
+
+  <exercise xml:id="q3">
+    <statement>
+      <p>
+        What is the answer to question 3?
+      </p>
+    </statement>
+    </exercise>
+
+  <exercise xml:id="q4">
+    <statement>
+      <p>
+        What is the answer to question 4?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise xml:id="q5">
+    <statement>
+      <p>
+        What is the answer to question 5?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise xml:id="q6">
+    <statement>
+      <p>
+        What is the answer to question 6?
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise xml:id="q7" workspace="2in">
+    <statement>
+      <p>
+        What is the answer to question 7? (has workspace)
+      </p>
+    </statement>
+  </exercise>
+
+  <exercise workspace="2in">
+    <statement>
+      <p>
+        What is the answer to question 8?  This also has workspace.
+      </p>
+    </statement>
+  </exercise>
+  
+
+</exercises>
