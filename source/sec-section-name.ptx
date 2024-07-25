@@ -5,4 +5,18 @@
 
   <p> Text of section. </p>
 
+  <exercises xml:id="exercises-test">
+    <introduction>
+      <p>
+        The following are just three exercises from the quiz bank file.
+      </p>
+    </introduction>
+    
+    <xi:include href="./quiz-bank.ptx" xpointer="q1"/>
+    <xi:include href="./quiz-bank.ptx" xpointer="xpointer(//exercise[@component='ws'])"/>
+    <xi:include href="./quiz-bank.ptx" xpointer="xpointer(//exercise[@workspace])"/>
+    <xi:include href="./quiz-bank.ptx" xpointer="xpointer(id('q4')|id('q6'))"/>
+    
+  </exercises>
+
 </section>
